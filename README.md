@@ -1,1 +1,8 @@
-a simple UNIX command interpreter.
+A SIMPLE   
+🐚       🐚 🐚🐚         🐚 🐚  🐚        🐚
+🐚       🐚 🐚  🐚       🐚 🐚    🐚    🐚
+🐚       🐚 🐚    🐚     🐚 🐚      🐚🐚
+🐚       🐚 🐚      🐚   🐚 🐚      🐚🐚
+🐚       🐚 🐚        🐚 🐚 🐚    🐚   🐚
+🐚🐚🐚🐚🐚 🐚          🐚  🐚  🐚       🐚
+COMMAND INTERPRETER.
