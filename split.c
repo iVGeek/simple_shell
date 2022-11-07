@@ -1,5 +1,5 @@
 /*
- * File: sword.c
+ * File: split.c
  * Auth: iVGeek
  *       
  */
