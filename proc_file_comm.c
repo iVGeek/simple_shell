@@ -1,3 +1,9 @@
+/*
+ * File: proc_file_comm.c
+ * Auth: iVGeek
+ *       
+ */
+
 #include "shell.h"
 
 int cant_open(char *file_path);
