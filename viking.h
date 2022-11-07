@@ -1,8 +1,8 @@
-#ifndef _VIKING_H_
-#define _VIKING_H_
+#ifndef _SHELL_H_
+#define _SHELL_H_
 
 /*
- * File: viking.h
+ * File: shell.h
  * Auth: iVGeek
  *      
  */
