@@ -1,7 +1,6 @@
 /*
  * File: proc_file_comm.c
  * Auth: iVGeek
- *       
  */
 
 #include "shell.h"

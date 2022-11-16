@@ -1,7 +1,7 @@
 /*
  * File: bracketlist.c
  * Auth: iVGeek
- *       
+ *
  */
 
 #include "shell.h"
