@@ -1,7 +1,7 @@
 /*
  * File: environ.c
  * Auth: iVGeek
- *       
+ *
  */
 
 #include "shell.h"

@@ -1,7 +1,6 @@
 /*
  * File: err_msg1.c
  * Auth: iVGeek
- *       
  */
 
 #include "shell.h"

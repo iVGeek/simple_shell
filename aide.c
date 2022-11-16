@@ -1,7 +1,6 @@
 /*
  * File: aide.c
  * Auth: iVGeek
- *       
  */
 
 #include "shell.h"

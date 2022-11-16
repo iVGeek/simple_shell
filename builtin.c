@@ -1,7 +1,6 @@
 /*
  * File: bifrost.c
  * Auth: iVGeek
- *       
  */
 
 #include "shell.h"

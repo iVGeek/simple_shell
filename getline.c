@@ -1,7 +1,6 @@
 /*
  * File: getline.c
  * Auth: iVGeek
- *       
  */
 
 #include "shell.h"

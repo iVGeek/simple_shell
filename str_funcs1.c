@@ -1,7 +1,7 @@
 /*
  * File: str_funcs1.c
  * Auth: iVGeek
- *       
+ *
  */
 
 #include "shell.h"

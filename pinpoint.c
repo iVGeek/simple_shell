@@ -1,7 +1,7 @@
 /*
  * File: pinpoint.c
  * Auth: iVGeek
- *       
+ *
  */
 
 #include "shell.h"

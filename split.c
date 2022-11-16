@@ -1,7 +1,7 @@
 /*
  * File: split.c
  * Auth: iVGeek
- *       
+ *
  */
 
 #include "shell.h"
