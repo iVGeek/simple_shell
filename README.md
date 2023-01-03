@@ -4,7 +4,7 @@
 * Language: C
 * OS: Ubuntu 20.04 LTS
 
-## CODESMITHES 🦊& :fish:
+## CODESMITHES 🦊&:fish:
 
 [GitHub](https://github.com/iVGeek)|iVGeek
 [GitHub](https://github.com/R-Kibet)|R-Kibet
