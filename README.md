@@ -1,7 +1,10 @@
-A SIMPLE UNIX COMMAND INTERPRETER.
+# A SIMPLE UNIX COMMAND INTERPRETER 💻:
 
-CODESMITHED BY :
+### Environment
+* Language: C, BrainFuck
+* OS: Ubuntu 20.04 LTS
 
-iVGeek -> https://github.com/iVGeek/iVGeek
+## CODESMITHES 🦊& :fish:
 
-RKibet -> https://github.com/R-Kibet
+[GitHub](https://github.com/iVGeek)|iVGeek
+[GitHub](https://github.com/R-Kibet)|R-Kibet
