@@ -1,7 +1,7 @@
 # A SIMPLE UNIX COMMAND INTERPRETER 💻:
 
 ### Environment
-* Language: C, BrainFuck
+* Language: C
 * OS: Ubuntu 20.04 LTS
 
 ## CODESMITHES 🦊& :fish:
